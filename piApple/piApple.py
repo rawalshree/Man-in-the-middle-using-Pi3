@@ -1,3 +1,10 @@
+'''
+Owner - Rawal Shree
+Email - rawalshreepal000@gmail.com
+Github - https://github.com/rawalshree
+'''
+
+
 import subprocess
 
 def piApple():
